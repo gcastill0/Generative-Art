@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tile_18</title>
+    <g id="18" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="76" y="32" width="20" height="32"></rect>
+        <rect id="Rectangle" fill="#000000" x="0" y="32" width="20" height="32"></rect>
+        <g id="database" transform="translate(20, 16)" fill="#000000" fill-rule="nonzero">
+            <path d="M56,10 L56,14 L56,16 L56,18 L40,28 L16,28 L0,18 L0,16 L0,14 L0,10 L16,0 L40,0 L56,10 Z M0,54 L0,42.7125 L14.85,52 L41.15,52 L56,42.7125 L56,54 L40,64 L16,64 L0,54 Z M56,36 L56,38 L40,48 L16,48 L0,38 L0,36 L0,22.7125 L14.85,32 L41.15,32 L56,22.7125 L56,36 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
